@@ -8,7 +8,7 @@ const API_publicKey = "FLWPUBK-2bf0cc595c642fe7b7f11b419497aed7-X";
             customer_phone: "0556676471",
             currency: "GHS",
             country: "GH",
-            txref: "rave-123029278392",
+            txref: "rave-1230aas9278392",
             meta: [{
                 metaname: "flightID",
                 metavalue: "AP1234"
